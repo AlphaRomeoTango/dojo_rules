@@ -4,4 +4,5 @@ This is Intro!
 * CoffeeScript
 * HTML
 * CSS
+* Killing history using git rebase
 
